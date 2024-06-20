@@ -12,7 +12,7 @@ This project is a full-stack application built with JavaScript, Handlebars.js, a
 - [License](#license)
 
 ## Images/Links/Videos
-[Click here for a link to our deployed website!](https://team5-expenses-tracker-b5aadd239530.herokuapp.com/)
+[Click here for a link to our deployed website!](https://expenses-tracker-caleb-ebd7ee31de21.herokuapp.com)
 ![login](assets/login.png)
 ![add transaction](assets/new-transaction.png)
 ![view all transactions](assets/view-all-transaction.png)
